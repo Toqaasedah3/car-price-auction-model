@@ -53,6 +53,8 @@ pip install -r requirements.txt
 
 ## 🕰 Dataset
 - The dataset contains auction data for car prices, including features like mileage, year of manufacture, and condition.
+- **Dataset Source**: 
+  - Kaggle: [Used Car Auction Prices Dataset](https://www.kaggle.com/datasets/tunguz/used-car-auction-prices/data)
 
 ## 🧰 Tools and Technologies
 - **Python**: Programming language
